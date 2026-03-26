@@ -1,0 +1,5 @@
+| Method     | Performance | Safe with NULL | Readability |
+| ---------- | ----------- | -------------- | ----------- |
+| LEFT JOIN  | Good        | Yes            | Easy        |
+| NOT EXISTS | Best        | Yes            | Medium      |
+| NOT IN     | Risky       |  No            | Easy        |
